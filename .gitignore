@@ -1,1 +1,7 @@
-vendor
+_site/
+# ignore composer vendor directory
+/vendor
+.bundle/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
