@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+title: Piotr Sobieszczański
+description: DevOps Engineer
+email: asdf@asdf.com
+github:
+  is_project_page: false
+  generated_by: false
