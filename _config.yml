@@ -4,4 +4,4 @@ description: DevOps Engineer
 email: asdf@asdf.com
 github:
   is_project_page: false
-  generated_by: false
+  generated_by: true
