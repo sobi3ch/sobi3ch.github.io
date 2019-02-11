@@ -11,7 +11,8 @@
 
 
 <h3>Example projects</h3>
-<p><a href="http://www.childrenssociety.org.uk">The Childrens Society</a> - National children's charity</p>
+<p><a href="https://www.eclectic.ca/">Eclectic</a> - web courses</p>
+<p><a href="https://www.childrenssociety.org.uk">The Childrens Society</a> - National children's charity</p>
 <p><a href="https://www.slateadvisers.com/">Slate Advisers</a> - Human Resources</p>
 <p><a href="https://culture.pl/pl">Culture.pl</a> - Polish culture news and info</p>
 <p><a href="https://www.atdtravelservices.co.uk/">ATD Travel Services</a> - Attraction tickets</p>
