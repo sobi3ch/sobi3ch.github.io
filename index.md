@@ -19,10 +19,5 @@
 <p><a href="https://wearebigkid.com">BigKid London</a> - Media company</p>
 
 <h3>Certificate</h3>
-<p><a href="https://bit.ly/aws-cert">AWS Associate Developer</a></p>
-
-
-<!-- 3. Relevant experience
-4. Provide context
-5. Relevant skills
-11. Your photo -->
+<p><a href="https://bit.ly/aws-cert">AWS Certified Developer – Associate</a></p>
+<p><a href="https://bit.ly/sobieszczanski-aws-sa-cert">AWS Certified Solutions Architect – Associate</a></p>
